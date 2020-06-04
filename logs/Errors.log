@@ -1,0 +1,7 @@
+08:57:07.109 CUSTOM_PATTERN [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Cannot create PoolableConnectionFactory (Unknown database 'cash_management_test')
+08:57:39.054 CUSTOM_PATTERN [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Cannot create PoolableConnectionFactory (Unknown database 'cash_management_test')
+09:02:18.871 CUSTOM_PATTERN [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Cannot create PoolableConnectionFactory (Unknown database 'fish_wholesale_trading_test')
+09:05:24.915 CUSTOM_PATTERN [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Cannot create PoolableConnectionFactory (Unknown database 'fish_wholesale_trading_test')
+09:42:07.599 CUSTOM_PATTERN [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Unknown column 'country0_.countryId' in 'field list'
+09:42:42.387 CUSTOM_PATTERN [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Unknown column 'country0_.countryId' in 'field list'
+09:47:28.429 CUSTOM_PATTERN [main] ERROR o.h.e.jdbc.spi.SqlExceptionHelper - Unknown column 'worldregio1_.worldRegionId' in 'field list'
